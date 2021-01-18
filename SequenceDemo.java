@@ -51,8 +51,8 @@ import java.util.Scanner; // used for validating command line input
 
 public class SequenceDemo
 {
-    static final int ROW_INDEX = 0;
-    static final int COLUMN_INDEX = 1;
+    final static int ROW_INDEX = 0;
+    final static int COLUMN_INDEX = 1;
 
     final static int MAX_PERCENTAGE_INDEX = 0;
     final static int PERCENTAGE_INDEX = 1;
